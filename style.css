@@ -1,0 +1,34 @@
+
+
+.card {
+    margin: auto;
+    margin-top: 50px;
+}
+
+h1 {
+    width: 20px;
+    height: 20px;
+    display: inline;
+   
+}
+
+#selecCont {
+    text-align: center;
+}
+.custom {
+    border-bottom: solid 2px;
+}
+.card-img-top {
+    height: 300px;
+}
+
+#points {
+    border-radius: 11px;
+}
+
+.h1s {
+    text-align: center;
+}
+.buttons {
+    text-align: center;
+}
